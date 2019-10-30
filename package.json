@@ -1,0 +1,24 @@
+{
+  "name": "gulpjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "gulpjs is automation for app",
+  "repository": "git@github.com:sahabuddinsgr/gulpjs.git",
+  "author": "sahabuddinsgr <sahabuddinsgr@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.6.4",
+    "@babel/preset-env": "^7.6.3",
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-babel": "^8.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-header": "^2.0.9",
+    "gulp-plumber": "^1.2.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify": "^3.0.2",
+    "gulp-webserver": "^0.9.1"
+  }
+}
